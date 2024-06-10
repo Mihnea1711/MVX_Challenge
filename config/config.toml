@@ -1,0 +1,8 @@
+[settings]
+logFile = "logs/app.log"
+
+[keys]
+key1Path = "keys/erd136ag3fktmudhc52ssh4a46f2av0rtnywh89qlf39nsjgh6nqyzlqj56m9d.json"
+key1Password = "SomeSecretPass@2000"
+key2Path = "keys/erd1wr5ffdllrmuq75x7stntkg27t8dk2quncd7dcdjd5ja0k4xjuegquq0tak.json"
+key2Password = "SomeOtherSecretPass@2000"
